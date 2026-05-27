@@ -627,9 +627,9 @@
 "projectName":"Image to Text App",
 "projectType":"AI",
 "projectDesc":"Extracts text content from uploaded images automatically.",
-"techStack":["api","javascript"],
-"difficulty":"intermediate",
-"projectPath":"./public/Image-To-Text-App/index.html"
+"techStack": ["HTML","CSS","JavaScript","Ollama","Moondream AI"]
+"difficulty":"advanced",
+"projectPath":"./public/Image-To-Text-App/ai image prediction"
 },
 
 {
